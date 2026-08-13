@@ -1,16 +1,45 @@
-## Hi there 👋
+# Herbert L. Taylor Jr.
 
-<!--
-**hltaylorjr/hltaylorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Operations & Technical Support | AI Workflow Architecture | Google Workspace**
 
-Here are some ideas to get you started:
+I bring 20+ years across customer service, help desk, technical support, and sales, including senior technical-support and escalation experience. I build and direct privacy-conscious, human-governed workflows that combine systems thinking, responsible AI assistance, clear approval boundaries, and practical service operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on remote IT operations, technical support, support enablement, Google Workspace administration, and AI-assisted service operations.
+
+## Featured portfolio project
+
+### [Secure AI Career Operations Workflow](https://github.com/hltaylorjr/secure-ai-career-operations-workflow)
+
+A sanitized architecture and documentation portfolio demonstrating:
+
+- Human-governed AI workflow design
+- Privacy-by-design and least-privilege controls
+- Career-focused AI and voice contact experiences
+- Opportunity, application, scheduling, and interview workflow orchestration
+- Signed event handling, replay protection, and sanitized records
+- Testing, documentation, fraud resilience, and cost controls
+
+**Project role:** Product Owner, Workflow Architect, and AI-Assisted Implementation Lead
+
+## Professional focus
+
+- IT operations and remote technical support
+- Tier II escalation and troubleshooting
+- User access and cloud-service administration
+- Google Workspace administration — continuing development
+- Cybersecurity — continuing development
+- AI-assisted service operations and workflow design
+
+## Current professional development
+
+- Google Cybersecurity Professional Certificate — in progress
+- Google Workspace administration — continuing development
+- Responsible, human-governed AI workflow architecture
+
+## Portfolio
+
+- Professional website: [herbertltaylor.com](https://herbertltaylor.com)
+- LinkedIn: [Herbert Taylor](https://www.linkedin.com/in/herbert2taylorl)
+- Professional inquiries: [careers@herbertltaylor.com](mailto:careers@herbertltaylor.com)
+
+> Public repositories contain sanitized portfolio demonstrations only. Production credentials, private career records, employer communications, and personal information are intentionally excluded.
