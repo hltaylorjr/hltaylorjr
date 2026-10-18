@@ -41,6 +41,6 @@ A sanitized architecture and documentation portfolio demonstrating:
 - Professional website: [herbertltaylor.com](https://herbertltaylor.com)
 - LinkedIn: [Herbert Taylor](https://www.linkedin.com/in/herbert2taylorl)
 - Verified credentials: [Credly profile](https://www.credly.com/users/herbert-taylor.a6dd9457)
-- Professional inquiries: [careers@herbertltaylor.com](mailto:careers@herbertltaylor.com)
+- Professional inquiries: use the contact form on [herbertltaylor.com](https://herbertltaylor.com/#contact)
 
 > Public repositories contain sanitized portfolio demonstrations only. Production credentials, private career records, employer communications, and personal information are intentionally excluded.
