@@ -6,7 +6,7 @@ I bring 20+ years across customer service, help desk, technical support, and sal
 
 I am focused on remote IT operations, technical support, support enablement, Google Workspace administration, and AI-assisted service operations.
 
-## Featured portfolio project
+## Featured portfolio projects
 
 ### [Secure AI Career Operations Workflow](https://github.com/hltaylorjr/secure-ai-career-operations-workflow)
 
@@ -20,6 +20,16 @@ A sanitized architecture and documentation portfolio demonstrating:
 - Testing, documentation, fraud resilience, and cost controls
 
 **Project role:** Product Owner, Workflow Architect, and AI-Assisted Implementation Lead
+
+### [Career Mosaic™](https://github.com/hltaylorjr/career-mosaic)
+
+[![Career Mosaic™ proposed AI-assisted career workflow](https://raw.githubusercontent.com/hltaylorjr/career-mosaic/main/docs/career-mosaic-workflow-overview.png)](https://github.com/hltaylorjr/career-mosaic)
+
+A personal AI-assisted career workflow design focused on job intake, résumé matching, scam checks, a calm daily digest, and human-approved applications.
+
+**Project role:** Product Owner, Workflow Designer, and AI-Assisted Implementation Lead
+
+*Public project overview; live implementation and approval enforcement have not been independently verified.*
 
 ## Professional focus
 
